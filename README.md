@@ -1,6 +1,6 @@
 Hello,
 
-In my work, I often think about AI governance, experiment with participative context and decision architectures, and try to measure how those affect both the systems we design and the organisations we design them for. I call this set of inquiry institutional cognition for short – not in the sense of cognisant institutions, but rather in considering the total sum of cognitive load an organisation collectively absorbs.
+In my work, I often think about AI governance, experiment with participative context and decision architectures, and try to measure how those affect both the systems we design and the organisations we design them for. I call this line of inquiry institutional cognition for short – not in the sense of cognisant institutions, but by considering the cognitive throughput an organisation collectively processes, how little of it minimally needs to meaningfully function, and how much it can maximally absorb before it implodes.
 
 Full disclosure: I've been around tech long enough to cure any delusions about my skills. I'm a far cry from a competent coder or engineer; the only thing I can produce at a reliable standard is apparently Jira tickets. I owe my ability to do anything with code to the advice a dear friend, themselves an ex-coder, gave me: leave me alone and use AI, they said. And while I'm working hard to keep the slop at bay, the code isn't actually so much the point.
 
