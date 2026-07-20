@@ -6,7 +6,7 @@ Full disclosure: I've held several tech roles in my career, and all of them were
 
 The ambition for this work is to be a conversation starter, or perhaps an emergent practice community: a place to think about human agency in agentic environments, propose safe and thoughtful conditions under which human and non-human intelligence generate value in partnership instead of randomly excavating it from 10X hype cycles.
 
-So, why the code, if I'm mostly here to talk? Because code is an exceptional surface to establish a ground truth by replacing assumptions of shared understandig with certainty. Choosing it as the lens was both intentional and pragmatic: the code already functionally mirrors the community aspiration — make shared truth an emergent property of the work that surrounds it, give everyone equal access to it, and invite scrutiny and falsification at every step.
+So, why the code, if I'm mostly here to talk? Because code is an exceptional surface for establishing ground truth by replacing any assumption of shared understanding with certainty either way. Choosing it as the lens was both intentional and pragmatic: the code already functionally mirrors the community aspiration — make shared truth an emergent property of the work that surrounds it, give everyone equal access to it, and invite scrutiny and falsification at every step.
 
 If you want to see what that looks like in practice, the bench currently holds:
 
