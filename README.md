@@ -10,7 +10,7 @@ So, why the code, if I'm mostly here to talk? Because code is an exceptional sur
 
 If you want to see what that looks like in practice, the bench currently holds:
 
-- [context-mediation-layer](https://github.com/sebb001/context-mediation-layer) – a working prototype of the coordination layer itself
+- [context-mediation-layer](https://github.com/sebb001/context-mediation-layer) – working prototype and architecture demonstrator for a human-AI correspondence framework
 - [cml-evidence-pack](https://github.com/sebb001/cml-evidence-pack) – six governed cases from the lab where it runs, records included
 - [epilab](https://github.com/sebb001/epilab) – an agent-based laboratory that stress-tests the governance primitives
 - [Governing Epistemic Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6417898) – the working paper the simulations feed
