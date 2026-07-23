@@ -8,7 +8,7 @@ I design, test and build governance infrastructure for human-AI collaboration en
 
 Decisions are executed faster than organisations can collectively keep up with what is actually happening. The Context Mediation Layer I'm building aims to stabilise this degradation: as a piece of correspondence infrastructure, it provides a shared surface where organisational intent, human interpretation and agentic execution intersect. It treats divergence as a high-value signal and surfaces it early, before it has a chance to harden into bad decisions and costly mistakes.
 
-I ground my work in a range of [different disciplines](https://github.com/sebb001/context-mediation-layer/blob/main/README.md#lineage) and bundle those influences into a lens I call **institutional cognition**. It parses constituents' individual contributions (and the cognitive load attached to them) into a composite view of an organisation, showing:
+I ground my work in a range of [different disciplines](https://www.github.com/sebb001/context-mediation-layer#user-content-lineage) and bundle those influences into a lens I call **institutional cognition**. It parses constituents' individual contributions (and the cognitive load attached to them) into a composite view of an organisation, showing:
 
 - how collective effort translates into its total productive output,
 - how little of that effort the organisation needs to meaningfully function, and
