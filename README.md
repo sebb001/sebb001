@@ -2,7 +2,7 @@ Hello,
 
 Here is a bit of context on my work and on my projects:
 
-## What I do
+## My work
 
 I design, test and build governance infrastructure for human-AI collaboration environments. Today's AI stack relies mostly on workflows and protocols. These are good at moving work at faster speeds, but they have a terrible sense of direction, which is usually mediated by humans: they maintain a shared understanding of where to go next across teams, systems, and incentives. They use meetings, judgment, and institutional memory, but when agentic systems begin to act directly on organisational intent, these mechanisms are too slow and stop working.
 
@@ -16,7 +16,7 @@ I ground my work in a range of [different disciplines](https://github.com/sebb00
 
 Full disclosure: I've held several tech roles in my career, and all of them were on the project or team leadership spectrum. I'm not a fluent coder and respect coders and their skills too much to even imply otherwise. My contributions so far live mostly in Jira tickets, not in pull requests. That's why I'm using coding agents in almost all of the work I publish here. I know that agentic code often creates its own special set of downstream challenges, so I fend off slop as best as I can.
 
-## Why I do it
+## My point
 
 But here's the thing: the code isn't actually so much the point I want to make. The ambition for this work is to be a conversation starter, or perhaps an emergent practice community: a place to think about human agency in agentic environments, propose safe and thoughtful conditions under which human and non-human intelligence generate value in partnership instead of randomly excavating it from 10X hype cycles.
 
@@ -24,7 +24,7 @@ So, why the code, if I'm mostly here to talk?
 
 Because code is an excellent surface for establishing ground truth, as it converts implicit assumptions of shared understanding into certainty either way. And in purely pragmatic terms: the code for CML already functionally mirrors the community aspiration — make shared truth an emergent property of the work that surrounds it, give everyone equal access to it, and invite scrutiny and falsification at every step.
 
-## How it takes shape
+## The bench
 
 If you want to see what that looks like in practice and dive deeper into the underlying research, the bench currently holds:
 
