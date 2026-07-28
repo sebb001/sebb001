@@ -22,7 +22,7 @@ But here's the thing: the code isn't actually so much the point I want to make. 
 
 So, why the code, if I'm mostly here to talk?
 
-Because code is an great surface for establishing ground truth, as it forces any implicit assumptions of shared understanding into certainty either way. Plus, in purely pragmatic terms: the code for CML already functionally mirrors the community aspiration — make shared truth an emergent property of the work that surrounds it, give everyone equal access to it, and invite scrutiny and falsification at every step.
+Because code is a great surface for establishing ground truth, as it forces any implicit assumptions of shared understanding into certainty either way. Plus, in purely pragmatic terms: the code for CML already functionally mirrors the community aspiration — make shared truth an emergent property of the work that surrounds it, give everyone equal access to it, and invite scrutiny and falsification at every step.
 
 ## The bench
 
