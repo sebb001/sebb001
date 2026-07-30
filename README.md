@@ -1,3 +1,5 @@
+# Wherever context goes, there you are
+
 Hello,
 
 Here is a bit of context on my work and on my projects:
@@ -14,7 +16,7 @@ I ground my work in a range of [different disciplines](https://www.github.com/se
 - how little of that effort the organisation needs to meaningfully function, and
 - how much its constituents can carry before it collapses.
 
-Full disclosure: I've held several tech roles in my career, and all of them were on the project or team leadership part of the spectrum. I'm not a fluent coder and respect their craft too much to even suggest otherwise. My contributions so far live mostly in Jira tickets, not in pull requests. That's why I'm using coding agents in almost all of the work I publish here. I know that agentic code often creates its own special set of downstream challenges, so I fend off slop as best as I can.
+Full disclosure: I've held several tech roles in my career, and all of them were on the project or team leadership part of the spectrum. I'm not a fluent coder and respect the craft too much to even suggest otherwise. My contributions so far live mostly in Jira tickets, not in pull requests. That's why I'm using coding agents in almost all of the work I publish here. I know that agentic code often creates its own special set of downstream challenges, so I fend off slop as best as I can.
 
 ## My point
 
