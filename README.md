@@ -20,7 +20,7 @@ Full disclosure: I’ve held several tech roles in my career, all on the project
 
 ## My point
 
-But here's the thing: the code isn't actually so much the point I want to make. The ambition for this work is to be a conversation starter, or perhaps an emergent practice community: a place to think about human agency in agentic environments and propose safe and thoughtful conditions under which human and non-human intelligence generate value in partnership, instead of drowning out any real potential AI offers in endless 10X hype cycles.
+But here's the thing: the code isn't actually so much the point I want to make. The ambition for this work is to be a conversation starter, or perhaps an emergent practice: a place to think about human agency in agentic environments and propose safe and thoughtful conditions under which human and non-human intelligence generate value in partnership, instead of drowning out any real potential AI offers in endless 10X hype cycles.
 
 So, why the code, if I'm mostly here to talk?
 
